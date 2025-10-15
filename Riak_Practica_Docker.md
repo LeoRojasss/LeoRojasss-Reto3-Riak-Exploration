@@ -175,11 +175,4 @@ Esto permite usar Riak como almacenamiento distribuido de contextos o resultados
 - Su arquitectura distribuida facilita la replicación y la consistencia eventual.
 - Es ideal como backend para aplicaciones **distribuidas, IoT o IA**.
 
----
-
-📹 **Sugerencia para el video del reto:**
-1. Muestra cómo levantas el contenedor.  
-2. Ejecuta los comandos CRUD.  
-3. Explica brevemente su arquitectura y menciona su relación con el teorema CAP.  
-4. Cierra mostrando el ejemplo con IA o música (para hacerlo más creativo).
 

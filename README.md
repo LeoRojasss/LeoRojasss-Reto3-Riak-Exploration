@@ -1,3 +1,6 @@
+
+VIDEO EXPLICATIVO https://youtu.be/BTiY50b4aDk
+
 # PASO 0 – FUNDAMENTACIÓN DE LA BASE DE DATOS **RIAK**
 
 ## 1. Introducción general

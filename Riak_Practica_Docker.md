@@ -30,7 +30,7 @@ volumes:
 ### Paso 2: Levantar el contenedor
 
 ```bash
-docker-compose up -d
+docker compose up -d
 ```
 
 Verifica que esté corriendo:
